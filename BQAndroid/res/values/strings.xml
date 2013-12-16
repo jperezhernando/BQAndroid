@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BQAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="icono_epub">icono_epub</string>
+    <string name="description">Description</string>
+    <string name="example">Example application</string>
+    <string name="action_sort_by_name">Sort by name</string>
+    <string name="action_sort_by_date">Sort by date</string>
+    <string name="book_cover">book cover</string>
+    <string name="close">CLOSE</string>
+
+</resources>
